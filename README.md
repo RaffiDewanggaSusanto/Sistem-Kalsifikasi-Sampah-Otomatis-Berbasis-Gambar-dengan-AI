@@ -103,12 +103,3 @@ Tes endpoint:
 curl -X POST http://localhost:5000/predict -F "image=@path\ke\gambar.jpg"
 ```
 
-## Catatan untuk Target Akurasi 85%
-
-Kalau akurasi belum mencapai 85%, coba langkah berikut:
-
-- Tambah jumlah data pada kelas yang masih sedikit.
-- Bersihkan gambar buram, terlalu gelap, atau salah label.
-- Perbesar `EPOCHS` di `config.py`.
-- Fine-tuning base model dengan mengubah `train_base=True` pada `build_waste_classifier`.
-- Gunakan augmentasi yang sesuai dengan variasi gambar sampah di dataset.
