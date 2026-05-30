@@ -1,6 +1,6 @@
 # AI Waste Classifier
 
-Kode awal untuk tugas tim AI proyek **Sistem Klasifikasi Sampah Otomatis Berbasis Gambar dengan AI**.
+**Sistem Klasifikasi Sampah Otomatis Berbasis Gambar dengan AI**.
 
 ## Fitur yang Sudah Disiapkan
 
