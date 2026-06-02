@@ -1,0 +1,7 @@
+,Residu,Logam,Kertas,Kardus,Kaca,Plastik
+Residu,1,0,0,0,0,0
+Logam,0,1,0,0,0,0
+Kertas,0,0,2,1,0,0
+Kardus,0,0,1,1,0,0
+Kaca,0,0,0,0,1,0
+Plastik,0,0,0,0,0,2
