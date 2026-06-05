@@ -96,10 +96,11 @@ http://localhost:8000/docs
 Jika sudah deploy ke Railway, format URL-nya seperti ini:
 
 ```text
-API URL   : https://web-production-287d1.up.railway.app
-Predict   : POST https://web-production-287d1.up.railway.app/predict
-Health    : GET  https://web-production-287d1.up.railway.app/health
-Classes   : GET  https://web-production-287d1.up.railway.app/classes
+API URL   : https://fs-waste-api-production-7dab.up.railway.app
+Predict   : POST https://fs-waste-api-production-7dab.up.railway.app/predict
+Health    : GET  https://fs-waste-api-production-7dab.up.railway.app/health
+Classes   : GET  https://fs-waste-api-production-7dab.up.railway.app/classes
+Model     : GET  https://fs-waste-api-production-7dab.up.railway.app/model
 ```
 
 ## Endpoint
