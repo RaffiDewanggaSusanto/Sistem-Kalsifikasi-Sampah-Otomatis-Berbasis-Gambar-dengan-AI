@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# FS Waste Classifier API
+# Waste Classifier API
 
-API FastAPI untuk klasifikasi gambar sampah menggunakan model TFLite dari artefak tim FS.
+API FastAPI untuk klasifikasi gambar sampah menggunakan model TFLite.
 
 ## Kelas
 
