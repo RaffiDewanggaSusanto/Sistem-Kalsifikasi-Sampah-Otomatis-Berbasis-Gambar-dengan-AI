@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Waste Classifier API
 
 API FastAPI untuk klasifikasi gambar sampah menggunakan model TFLite.
@@ -248,5 +247,6 @@ Tes endpoint:
 ```bash
 curl -X POST http://localhost:5000/predict -F "image=@path\ke\gambar.jpg"
 ```
-
->>>>>>> 278da7322045d20196e9aa52399c2320137e9cc4
+## Download Model
+Model tersedia di Google Drive:
+https://drive.google.com/drive/folders/1zX_NJnRITMgaEsmOD-pU_BZ3HLhetauJ?usp=sharing
